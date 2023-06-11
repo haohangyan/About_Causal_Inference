@@ -1,6 +1,8 @@
 
 Project1 is more about causal inferencea and statistics test
+
 Project2 is more about machine learning(regression model) used in causal inference
+
 They are perfomred on the same dataset.
 
 # Project Description
