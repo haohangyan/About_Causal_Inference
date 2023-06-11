@@ -1,5 +1,8 @@
 # Project Description
 In this repository, we undertake a deep dive into movie ratings data, focusing primarily on exploring potential causal relationships. Using a rich dataset from movie ratings, we address key questions aimed at extracting meaningful insights that could be useful for stakeholders in the movie industry.
+Project1 is more about causal inferencea and statistics test
+Project2 is more about machine learning(regression model) used in causal inference
+They are perfomred on the same dataset.
 
 # Dataset Description
 We use a dataset that comprises ratings data for 400 movies from 1097 research participants. The dataset includes columns representing:
